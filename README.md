@@ -1,6 +1,6 @@
 Dosa Restaurant API:
 
-Backend for managing a dosa restaurant. It allows you to easily handle customers, menu items, and orders. Built using FastAPI and SQLite, it’s fast, reliable, and easy to use.
+We will manage backend for a dosa restaurant. It allows you to easily handle customers, menu items, and orders. Built using FastAPI and SQLite, it’s fast, reliable, and easy to use.
 
 Features:
 
